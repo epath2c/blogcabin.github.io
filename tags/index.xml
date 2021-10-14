@@ -5,6 +5,16 @@
     <link>https://epath2c.github.io/blogcabin.github.io/tags/</link>
     <description>Recent content in Tags on Sam Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/tags/test/</link>
+      <pubDate>Thu, 14 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

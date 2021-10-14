@@ -6,14 +6,23 @@
     <description>Recent content in Posts on Sam Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Oct 2021 20:44:19 +0800</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1stblog</title>
-      <link>https://epath2c.github.io/blogcabin.github.io/posts/1stblog/</link>
-      <pubDate>Wed, 13 Oct 2021 20:44:19 +0800</pubDate>
+      <title>About Me (关于我)</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/aboutme/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://epath2c.github.io/blogcabin.github.io/posts/1stblog/</guid>
-      <description>Welcome to my blog! Hi there!</description>
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/aboutme/</guid>
+      <description>I&amp;rsquo;m a 25-year-old female from China and trying to become a computer engineer and struggling with my IELTS exam as an ELL.</description>
+    </item>
+    
+    <item>
+      <title>Hello, 1st Blog</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/hello/</link>
+      <pubDate>Thu, 14 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/hello/</guid>
+      <description>console.log(&amp;#34;爱情诚可贵，爱情价更高。若为自由故，二者皆可抛。&amp;#34;) </description>
     </item>
     
   </channel>
