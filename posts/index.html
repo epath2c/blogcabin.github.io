@@ -75,6 +75,20 @@
 </header>
 <article class=post-entry>
 <header class=entry-header>
+<h2>Algorithm Practice 1
+</h2>
+</header>
+<section class=entry-content>
+<p>1. Remove Duplicates from Sorted Array Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+My first solution:
+var removeDuplicates = function(nums) { if(nums.length === 0) return null; let i = 0; let j= i+1; let k = 0; while (j &lt; nums.length){ while(nums[i] === nums[j]){ nums.splice(j, 1); k ++; } i ++; j ++; } }; Refactored version:
+var removeDuplicates = function(nums) { if(nums.length === 0) return 0; let i = 0; for(let j=1; j&lt;nums.length; j ++) { if(nums[i] !...</p>
+</section>
+<footer class=entry-footer>October 19, 2021&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Aria Hu</footer>
+<a class=entry-link aria-label="post link to Algorithm Practice 1" href=https://epath2c.github.io/blogcabin.github.io/posts/algorithm1/></a>
+</article>
+<article class=post-entry>
+<header class=entry-header>
 <h2>How to build dynamic HTML elements with vanilla JS?
 </h2>
 </header>

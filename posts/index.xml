@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm Practice 1</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/algorithm1/</link>
+      <pubDate>Tue, 19 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/algorithm1/</guid>
+      <description>1. Remove Duplicates from Sorted Array Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+My first solution:
+var removeDuplicates = function(nums) { if(nums.length === 0) return null; let i = 0; let j= i+1; let k = 0; while (j &amp;lt; nums.length){ while(nums[i] === nums[j]){ nums.splice(j, 1); k ++; } i ++; j ++; } }; Refactored version:
+var removeDuplicates = function(nums) { if(nums.length === 0) return 0; let i = 0; for(let j=1; j&amp;lt;nums.length; j ++) { if(nums[i] !</description>
+    </item>
+    
     <item>
       <title>How to build dynamic HTML elements with vanilla JS?</title>
       <link>https://epath2c.github.io/blogcabin.github.io/posts/dynamichtmlbyjs/</link>

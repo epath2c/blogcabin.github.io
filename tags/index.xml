@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algorithm</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/tags/algorithm/</link>
+      <pubDate>Tue, 19 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hash table</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/tags/hash-table/</link>
+      <pubDate>Tue, 19 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/tags/hash-table/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Vanilla JS</title>
       <link>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</link>
