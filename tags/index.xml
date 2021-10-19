@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sam Hu&#39;s Blog</title>
+    <title>Tags on Aria Hu&#39;s Blog</title>
     <link>https://epath2c.github.io/blogcabin.github.io/tags/</link>
-    <description>Recent content in Tags on Sam Hu&#39;s Blog</description>
+    <description>Recent content in Tags on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Oct 2021 22:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanilla JS</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</link>
+      <pubDate>Sun, 17 Oct 2021 11:55:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test</title>
       <link>https://epath2c.github.io/blogcabin.github.io/tags/test/</link>
-      <pubDate>Thu, 14 Oct 2021 22:30:03 +0000</pubDate>
+      <pubDate>Thu, 14 Oct 2021 11:30:03 +0000</pubDate>
       
       <guid>https://epath2c.github.io/blogcabin.github.io/tags/test/</guid>
       <description></description>

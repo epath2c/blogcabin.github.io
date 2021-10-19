@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aria Hu&#39;s Blog</title>
-    <link>https://epath2c.github.io/blogcabin.github.io/posts/</link>
-    <description>Recent content in Posts on Aria Hu&#39;s Blog</description>
+    <title>Vanilla JS on Aria Hu&#39;s Blog</title>
+    <link>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</link>
+    <description>Recent content in Vanilla JS on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build dynamic HTML elements with vanilla JS?</title>
       <link>https://epath2c.github.io/blogcabin.github.io/posts/dynamichtmlbyjs/</link>

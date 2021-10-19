@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam Hu&#39;s Blog</title>
+    <title>Aria Hu&#39;s Blog</title>
     <link>https://epath2c.github.io/blogcabin.github.io/</link>
-    <description>Recent content on Sam Hu&#39;s Blog</description>
+    <description>Recent content on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Oct 2021 22:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 11:55:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me (关于我)</title>
-      <link>https://epath2c.github.io/blogcabin.github.io/posts/aboutme/</link>
-      <pubDate>Thu, 14 Oct 2021 22:30:03 +0000</pubDate>
+      <title>How to build dynamic HTML elements with vanilla JS?</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/dynamichtmlbyjs/</link>
+      <pubDate>Sun, 17 Oct 2021 11:55:03 +0000</pubDate>
       
-      <guid>https://epath2c.github.io/blogcabin.github.io/posts/aboutme/</guid>
-      <description>I&amp;rsquo;m a 25-year-old female from China and trying to become a computer engineer and struggling with my IELTS exam as an ELL.</description>
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/dynamichtmlbyjs/</guid>
+      <description>Here is the summary of some tricks from John Smilga&amp;rsquo;s JS projects. This post is depending on &amp;lsquo;Menu&amp;rsquo;.
+ INTRO: While building simple project, it seems ok to hard-code some elements, like the buttons here. But in the real world, it would be better to dynamically render buttons due to the data we fetched from some database.    Use vanilla JS to load content when the DOM was first rendered.</description>
     </item>
     
     <item>
       <title>Hello, 1st Blog</title>
-      <link>https://epath2c.github.io/blogcabin.github.io/posts/hello/</link>
+      <link>https://epath2c.github.io/blogcabin.github.io/hello/</link>
       <pubDate>Thu, 14 Oct 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://epath2c.github.io/blogcabin.github.io/posts/hello/</guid>
+      <guid>https://epath2c.github.io/blogcabin.github.io/hello/</guid>
       <description>console.log(&amp;#34;生命诚可贵，爱情价更高。若为自由故，二者皆可抛。&amp;#34;) </description>
     </item>
     
