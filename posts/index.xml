@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Aria Hu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to make dynamic navbar?</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/dynamicnavbar/</link>
+      <pubDate>Wed, 20 Oct 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/dynamicnavbar/</guid>
+      <description>This article is based on the Scroll project here.
+Intro In CSS, the conainer height is set to 0 dy default, because we don&amp;rsquo;t wanna show the container when we first load the page. We want to use the toggle button to control whether to show it or not. That&amp;rsquo;s also how we use toggle method. In CSS, we set the style of class .show-links to be height of 200, so when we add this class by using event listener, we will see the links.</description>
+    </item>
+    
     <item>
       <title>Algorithm Practice 1</title>
       <link>https://epath2c.github.io/blogcabin.github.io/posts/algorithm1/</link>

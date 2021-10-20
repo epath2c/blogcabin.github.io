@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://epath2c.github.io/blogcabin.github.io/</loc>
+    <lastmod>2021-10-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://epath2c.github.io/blogcabin.github.io/posts/dynamicnavbar/</loc>
+    <lastmod>2021-10-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://epath2c.github.io/blogcabin.github.io/posts/</loc>
+    <lastmod>2021-10-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://epath2c.github.io/blogcabin.github.io/tags/</loc>
+    <lastmod>2021-10-20T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</loc>
+    <lastmod>2021-10-20T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://epath2c.github.io/blogcabin.github.io/tags/algorithm/</loc>
     <lastmod>2021-10-19T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://epath2c.github.io/blogcabin.github.io/posts/algorithm1/</loc>
     <lastmod>2021-10-19T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://epath2c.github.io/blogcabin.github.io/</loc>
-    <lastmod>2021-10-19T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://epath2c.github.io/blogcabin.github.io/tags/hash-table/</loc>
     <lastmod>2021-10-19T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://epath2c.github.io/blogcabin.github.io/posts/</loc>
-    <lastmod>2021-10-19T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://epath2c.github.io/blogcabin.github.io/tags/</loc>
-    <lastmod>2021-10-19T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://epath2c.github.io/blogcabin.github.io/posts/dynamichtmlbyjs/</loc>
-    <lastmod>2021-10-17T11:55:03+00:00</lastmod>
-  </url><url>
-    <loc>https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/</loc>
     <lastmod>2021-10-17T11:55:03+00:00</lastmod>
   </url><url>
     <loc>https://epath2c.github.io/blogcabin.github.io/hello/</loc>
