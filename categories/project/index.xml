@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on Aria Hu&#39;s Blog</title>
+    <link>https://epath2c.github.io/blogcabin.github.io/categories/project/</link>
+    <description>Recent content in project on Aria Hu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 00:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steps of One Simple CRUD</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/restfulpractice/</link>
+      <pubDate>Sat, 23 Oct 2021 00:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/restfulpractice/</guid>
+      <description>This article is based on John Smilga&amp;rsquo;s JS project Grocery Bud.
+I summarize these steps to keep a reference of how to write full CRUD for my later study.
+ Select all the needed elements (including get some pseudo ID) Start working on submitting form:(this eventListener callback function is written somewhere else, like, all the functions are written together so that we can manage the code more clearly.)  Three conditions:  What if we have value and the action is not edit What if we have value and the action is edit What if we don&amp;rsquo;t provide any value?</description>
+    </item>
+    
+  </channel>
+</rss>

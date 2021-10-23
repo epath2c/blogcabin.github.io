@@ -3,11 +3,11 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
-<title>Tags | Aria Hu's Blog</title>
+<title>project | Aria Hu's Blog</title>
 <meta name=keywords content>
 <meta name=description content="A personal blog,">
 <meta name=author content="Sam Hu">
-<link rel=canonical href=https://epath2c.github.io/blogcabin.github.io/tags/>
+<link rel=canonical href=https://epath2c.github.io/blogcabin.github.io/categories/project/>
 <meta name=google-site-verification content="XYZabc">
 <meta name=yandex-verification content="XYZabc">
 <meta name=msvalidate.01 content="XYZabc">
@@ -20,17 +20,17 @@
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.88.1">
-<link rel=alternate type=application/rss+xml href=https://epath2c.github.io/blogcabin.github.io/tags/index.xml>
+<link rel=alternate type=application/rss+xml href=https://epath2c.github.io/blogcabin.github.io/categories/project/index.xml>
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 <style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
 </noscript>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script><meta property="og:title" content="Tags">
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script><meta property="og:title" content="project">
 <meta property="og:description" content="A personal blog,">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://epath2c.github.io/blogcabin.github.io/tags/"><meta property="og:site_name" content="Sam Hu's Blog">
+<meta property="og:url" content="https://epath2c.github.io/blogcabin.github.io/categories/project/"><meta property="og:site_name" content="Sam Hu's Blog">
 <meta name=twitter:card content="summary">
-<meta name=twitter:title content="Tags">
+<meta name=twitter:title content="project">
 <meta name=twitter:description content="A personal blog,">
 </head>
 <body class=list id=top>
@@ -62,36 +62,29 @@
 </li>
 <li>
 <a href=https://epath2c.github.io/blogcabin.github.io/tags/ title=Tags>
-<span class=active>Tags</span>
+<span>Tags</span>
 </a>
 </li>
 </ul>
 </nav>
 </header>
 <main class=main>
-<header class=page-header>
-<h1>Tags</h1>
+<header class=page-header><div class=breadcrumbs><a href=https://epath2c.github.io/blogcabin.github.io/>Home</a>&nbsp;»&nbsp;<a href=https://epath2c.github.io/blogcabin.github.io/categories/>Categories</a></div>
+<h1>project</h1>
 </header>
-<ul class=terms-tags>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/algorithm/>algorithm <sup><strong><sup>2</sup></strong></sup> </a>
-</li>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/hash-table/>hash table <sup><strong><sup>1</sup></strong></sup> </a>
-</li>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/linked-list/>linked list <sup><strong><sup>1</sup></strong></sup> </a>
-</li>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/project/>project <sup><strong><sup>1</sup></strong></sup> </a>
-</li>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/test/>test <sup><strong><sup>1</sup></strong></sup> </a>
-</li>
-<li>
-<a href=https://epath2c.github.io/blogcabin.github.io/tags/vanilla-js/>vanilla JS <sup><strong><sup>3</sup></strong></sup> </a>
-</li>
-</ul>
+<article class="post-entry tag-entry">
+<header class=entry-header>
+<h2>Steps of One Simple CRUD
+</h2>
+</header>
+<section class=entry-content>
+<p>This article is based on John Smilga’s JS project Grocery Bud.
+I summarize these steps to keep a reference of how to write full CRUD for my later study.
+Select all the needed elements (including get some pseudo ID) Start working on submitting form:(this eventListener callback function is written somewhere else, like, all the functions are written together so that we can manage the code more clearly.) Three conditions: What if we have value and the action is not edit What if we have value and the action is edit What if we don’t provide any value?...</p>
+</section>
+<footer class=entry-footer>October 23, 2021&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Aria Hu</footer>
+<a class=entry-link aria-label="post link to Steps of One Simple CRUD" href=https://epath2c.github.io/blogcabin.github.io/posts/restfulpractice/></a>
+</article>
 </main>
 <footer class=footer>
 <span>&copy; 2021 <a href=https://epath2c.github.io/blogcabin.github.io/>Aria Hu's Blog</a></span>
