@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linked list on Aria Hu&#39;s Blog</title>
+    <link>https://epath2c.github.io/blogcabin.github.io/tags/linked-list/</link>
+    <description>Recent content in linked list on Aria Hu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 00:30:03 +0000</lastBuildDate><atom:link href="https://epath2c.github.io/blogcabin.github.io/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm Practice 2 - Singly Linked List</title>
+      <link>https://epath2c.github.io/blogcabin.github.io/posts/algotrithm2/</link>
+      <pubDate>Sat, 23 Oct 2021 00:30:03 +0000</pubDate>
+      
+      <guid>https://epath2c.github.io/blogcabin.github.io/posts/algotrithm2/</guid>
+      <description>Question is here
+My Study Note:
+I didn&amp;rsquo;t solve this problem at the first try, actually, I didn&amp;rsquo;t understand this problem at all because I was still confused about the data structuresingly linked list.
+The approach I learned from this original solution
+var mergeTwoLists = function(l1, l2) { let list = {value: null, next: null}; temp = list; while(l1 &amp;amp;&amp;amp; l2){ if(l1.val&amp;lt; l2.val){ temp.next = l1 l1= l1.next } else{ temp.</description>
+    </item>
+    
+  </channel>
+</rss>
