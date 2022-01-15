@@ -19,7 +19,7 @@
 <link rel=mask-icon href=https://epath2c.github.io/blogcabin.github.io/safari-pinned-tab.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.88.1">
+<meta name=generator content="Hugo 0.92.0">
 <link rel=alternate type=application/rss+xml href=https://epath2c.github.io/blogcabin.github.io/tags/algorithm/index.xml>
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
@@ -89,6 +89,21 @@ var mergeTwoLists = function(l1, l2) { let list = {value: null, next: null}; tem
 </article>
 <article class="post-entry tag-entry">
 <header class=entry-header>
+<h2>Test
+</h2>
+</header>
+<section class=entry-content>
+<p>格式参考 GitHub Pages action，可以根据自己需要，按照说明文档上的建议对上面的配置进一步调整。
+提交 commit，保存！之后会发现 action 在尝试运行，等待不到一分钟结果就会出来，变成绿色就说明成功啦！
+这时跑去公开仓库瞅瞅看，应该已经可以看到自动建了一个名为 gh-pages 的分支，里面出现了许多东西，此时打开你的博客域名应该已经可以看到博客内容啦！
+如果 github action 没成功跑起来也不要慌，点进 deploy 详细看下报错，一般都可以根据报错内容发现原因，对应去调整后再跑几遍即可。
+自定义域名注意事项 博客根目录下的 config 文件中 base url 更换为自定义域名 为自定义域名添加了 CNAME 记录（顶级域名也可添加四条 A 记录），详见 github 官方说明：Managing a custom domain for your GitHub Pages site 部署成功后，进入公开仓库 settings，pages 页面添加自定义域名，等待 DNS 检验成功 如果使用了 CDN（比如 cloudflare），github 上的强制 https 按钮可能不能点；cloudflare 免费提供 https 证书，如果无法正常显示 https，可以建立强制 https 规则 不适用 CDN 的情况下，github 已支持为自定义域名办法 let’s encrypt 证书，稍等一会儿即可生效 ✧ 部署完成后续管理</p>
+</section>
+<footer class=entry-footer>October 23, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Aria Hu</footer>
+<a class=entry-link aria-label="post link to Test" href=https://epath2c.github.io/blogcabin.github.io/posts/test/></a>
+</article>
+<article class="post-entry tag-entry">
+<header class=entry-header>
 <h2>Algorithm Practice 1
 </h2>
 </header>
@@ -103,7 +118,7 @@ var removeDuplicates = function(nums) { if(nums.length === 0) return 0; let i = 
 </article>
 </main>
 <footer class=footer>
-<span>&copy; 2021 <a href=https://epath2c.github.io/blogcabin.github.io/>Aria Hu's Blog</a></span>
+<span>&copy; 2022 <a href=https://epath2c.github.io/blogcabin.github.io/>Aria Hu's Blog</a></span>
 <span>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
